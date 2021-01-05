@@ -51,7 +51,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "vue": "^2.4.2",
     "vue-electron": "^1.0.6",
     "vue-pouch-db": "^2.0.2",
